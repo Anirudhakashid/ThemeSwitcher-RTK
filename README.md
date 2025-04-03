@@ -1,4 +1,4 @@
-# [Theme Switcher](reduxthemeswitcher.netlify.app)
+# [Theme Switcher](https://reduxthemeswitcher.netlify.app/)
 
 React + Vite
 
