@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /** light theme */
+  --color-warmBeige: #fdf6e3;
+  --color-deepBrown: #5c4033;
+  --color-goldenYellow: #ffb703;
+
+  /** Dark Theme */
+  --color-charcoalBlack: #121212; /*bg*/
+  --color-deepGray: #1f1f1f; /* CARD bg */
+  --color-softWhite: #e0e0e0; /* text */
+  --color-brightOrange: #f97316; /* element */
+}
